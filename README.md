@@ -1,8 +1,7 @@
+# Simpl-Vintage
 ![Simpl-Vintage](simpl-vintage.png)
 
-# Simpl-Vintage
-
-#### Créez un site complet avec WordPress sans utiliser de code
+#### Création d’un site de showroom temporaire pour Simpl Vintage
 
 1. **Développement WordPress en local** :
    - Configurer un environnement de serveur local.
