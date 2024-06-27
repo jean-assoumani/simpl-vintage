@@ -76,5 +76,5 @@
    - Ce plugin est généralement suffisant pour la plupart des besoins de sauvegarde et de migration de sites WordPress.
 
 #### Découvrir le projet Simpl Vintage en ligne
-🔗 [Simpl-Vintage](https://jean-assoumani.github.io/simpl-vintage/)
+🔗 [Simpl-Vintage](https://simpl-vintage.assoumani.pro/)
 <p><em>Projet 4 - Créez un site complet avec WordPress sans utiliser de code - Openclassrooms 2024</em></p>
