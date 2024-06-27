@@ -1,0 +1,50 @@
+# Ignorer TOUS les fichiers .log
+*Copie.*
+*old.*
+*.log
+*.sql
+*.gz
+.old
+.scss
+.sass-cache
+.wpress
+
+# Ignore les fichiers cachés communs
+.DS_Store
+Thumbs.db
+
+# Ignore les fichiers de configuration IDE
+.idea/
+.vscode/
+
+# Ignore les fichiers de sauvegarde
+*.bak
+*.swp
+
+# WordPress
+/wp-admin/
+/wp-includes/
+
+# Fichiers spécifiques WordPress
+/.htaccess
+/license.txt
+/readme.html
+/wp-*.php
+sitemap.xml
+sitemap.xml.gz
+
+# Dossiers spécifiques WordPress
+/wp-content/ai1wm-backups/
+/wp-content/languages/
+/wp-content/plugins/
+/wp-content/smush-webp/
+/wp-content/uploads/
+/wp-content/upgrade/
+/wp-content/index.php
+/wp-includes/
+/index.php
+/xmlrpc.php
+
+# Configuration
+wp-config.php
+/.env
