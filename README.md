@@ -1,38 +1,37 @@
 # Simpl-Vintage
 ![Simpl-Vintage](simpl-vintage.png)
 
-#### Création d’un site de showroom temporaire pour Simpl Vintage
+***<p>"Simpl Vintage, une marque de vêtements d’occasion,*** <br>***a besoin d’un site simple pour promouvoir l’ouverture de son showroom"</p>***
+
+#### Création d’un site de showroom pour Simpl Vintage
 
 1. **Développement WordPress en local** :
    - Configurer un environnement de serveur local.
    - Créer une base de données pour WordPress.
    - Télécharger et installer WordPress en local.
 
-### Objectif : Installer un thème correspondant le plus possible aux wireframes
+### Installer un thème correspondant le plus possible aux wireframes
 
 1. **Recherches approfondies sur les sites de thèmes** :
    - Étudier attentivement les wireframes pour comprendre les fonctionnalités requises.
    - Utiliser les informations des wireframes pour rechercher un thème WordPress adapté.
    - Choisir un thème qui non seulement correspond visuellement aux wireframes mais qui offre aussi les fonctionnalités nécessaires.
-   - Noter toutes les fonctionnalités spécifiques demandées par le client.
+   - Prendre en compte toutes les fonctionnalités spécifiques demandées par le client.
    - Consulter des sites populaires de thèmes (ex. : ThemeForest, WordPress.org, Elegant Themes).
-   - Identifier les thèmes qui se rapprochent le plus des wireframes fournis (pour ce projet j'ai choisi OceanWP).
-   - Installation du thème.
+   - Identifier les thèmes qui se rapprochent le plus des wireframes fournis ***(pour ce projet j'ai opté pour [OceanWP](https://fr.wordpress.org/themes/oceanwp/))***.
 
-2. **Configuration initiale du thème** :
-   - Activer et configure les paramètres de base du thème comme indiqué par le développeur.
+2. **Configuration initiale & exploration du thème** :
+   - Installer, activer et configurer les paramètres de base du thème.
    - Vérifier que le thème est correctement installé et fonctionnel.
-
-3. **Exploration des fonctionnalités du thème** :
    - Explorer les options et les fonctionnalités intégrées dans le thème.
    - Vérifier si certaines des fonctionnalités demandées par le client sont déjà disponibles.
 
-4. **Préparation pour l'intégration des plugins** :
+3. **Préparation pour l'intégration des plugins** :
    - Identifier les fonctionnalités manquantes qui nécessiteront l'installation de plugins supplémentaires.
    - Planifier l'installation des plugins en fonction des besoins spécifiques du site.
    - Privilégier des plugins bien maintenus et avec de bonnes évaluations pour éviter des problèmes de sécurité et de compatibilité.
 
-5. **Création d’un thème enfant** :
+4. **Création d’un thème enfant** :
    - Création d'un nouveau dossier dans le répertoire des thèmes pour le thème enfant.
    - Création d'un fichier style.css dans ce dossier avec les informations nécessaires pour hériter du thème parent.
    - Création d'un fichier functions.php pour que le thème enfant utilise les styles et les fonctionnalités du thème parent.
@@ -48,7 +47,7 @@
    - Installer les plugins correspondant aux fonctionnalités spécifiques demandées par le client.
    - Vérifier la compatibilité des plugins avec le thème choisi et entre eux si nécessaire.
 
-### Objectif : Avoir le contenu demandé par le client
+### Contenu demandé et fourni par le client
 
 1. **Intégration du contenu** :
    - Crées les pages et les articles nécessaires selon les wireframes et les exigences du client.
@@ -61,7 +60,7 @@
 3. **Tests et ajustements** :
    - Vérifier que toutes les fonctionnalités du site répondent aux besoins du client et aux wireframes.
    - Effectue des tests pour assurer la compatibilité et la performance du site.
-   - Vérifier la conformité du site
+   - Vérifier la conformité du site.
 
 ### Sauvegarde & Export
 
@@ -74,6 +73,5 @@
    - Vérifier que la taille de ton site ne dépasse pas les limites de la version gratuite d'All-in-One WP Migration.
    - Ce plugin est généralement suffisant pour la plupart des besoins de sauvegarde et de migration de sites WordPress.
 
-#### Découvrir le projet Simpl Vintage en ligne
-🔗 [Simpl-Vintage](https://simpl-vintage.assoumani.pro/)
-<p><em>Projet 4 - Créez un site complet avec WordPress sans utiliser de code - Openclassrooms 2024</em></p>
+#### Voir le projet en ligne : 🔗 [Simpl-Vintage](https://simpl-vintage.assoumani.pro/)
+***<p>Projet 4 - Créez un site complet avec WordPress sans utiliser de code - Openclassrooms 2024</p>***
