@@ -73,5 +73,4 @@
    - Vérifier que la taille de ton site ne dépasse pas les limites de la version gratuite d'All-in-One WP Migration.
    - Ce plugin est généralement suffisant pour la plupart des besoins de sauvegarde et de migration de sites WordPress.
 
-#### Voir le projet en ligne : 🔗 [Simpl-Vintage](https://simpl-vintage.assoumani.pro/)
 ***<p>Projet 4 - Créez un site complet avec WordPress sans utiliser de code - Openclassrooms 2024</p>***
